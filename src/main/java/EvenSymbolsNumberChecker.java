@@ -3,7 +3,7 @@ import java.util.HashMap;
 import java.util.HashSet;
 import java.util.Map;
 
-public class EvenSymbolsNumberCheckerLevel2 {
+public class EvenSymbolsNumberChecker {
 
 
     public static HashSet<Character> symbolsChecker (ArrayList<String> str) {
@@ -47,3 +47,4 @@ public class EvenSymbolsNumberCheckerLevel2 {
         return temp;
     }
 }
+
